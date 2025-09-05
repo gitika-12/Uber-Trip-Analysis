@@ -64,5 +64,5 @@ Includes trip-level details for deeper drill-downs.
 
 ## Problem Statement, Project Report/Insights pdfs are attached in this repo.
 Direct links:
-- Problem Statement - [Problem Statement](https://github.com/gitika-12/Uber-Trip-Analysis/blob/main/Problem%20Statement.pdf)
-- Insights Report - [Insights Report](https://github.com/gitika-12/Uber-Trip-Analysis/blob/main/Insights%20and%20Report.pdf)
+- [Problem Statement](https://github.com/gitika-12/Uber-Trip-Analysis/blob/main/Problem%20Statement.pdf)
+- [Insights Report](https://github.com/gitika-12/Uber-Trip-Analysis/blob/main/Insights%20and%20Report.pdf)
