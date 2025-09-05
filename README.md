@@ -29,7 +29,7 @@ The dashboard is divided into three main sections: **Overview Analysis, Time Ana
 ---
 
 ### 2. Time Analysis
-![Time Analysis Dashboard](Time-Analysis-SS.png)
+![Time Analysis Dashboard](https://github.com/gitika-12/Uber-Trip-Analysis/blob/main/Time%20Analysis%20SS.png)
 
 **Highlights:**
 - Bookings by **Pickup Time** (hourly distribution)  
@@ -40,7 +40,8 @@ The dashboard is divided into three main sections: **Overview Analysis, Time Ana
 ---
 
 ### 3. Details Analysis
-*(Not shown here – includes trip-level details for deeper drill-downs.)*  
+![Details Dashboard](https://github.com/gitika-12/Uber-Trip-Analysis/blob/main/Details%20SS.png)
+- includes trip-level details for deeper drill-downs.
 
 ---
 
@@ -61,7 +62,7 @@ The dashboard is divided into three main sections: **Overview Analysis, Time Ana
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/uber-trip-analysis.git
+## Problem Statement, Project Report/Insights pdfs are attached in this repo.
+Direct links:
+- Problem Statement - https://github.com/gitika-12/Uber-Trip-Analysis/blob/main/Problem%20Statement.pdf
+- Insights Report - https://github.com/gitika-12/Uber-Trip-Analysis/blob/main/Insights%20and%20Report.pdf
