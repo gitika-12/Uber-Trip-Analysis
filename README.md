@@ -3,7 +3,7 @@
 This project presents an **interactive Power BI dashboard** built using Uber trip details data.  
 The analysis provides insights into trip bookings, revenue, distances, timings, and customer preferences.  
 
-The dashboard is divided into three main sections: **Overview Analysis, Time Analysis, and Details**.
+The dashboard is divided into three main sections: **Overview Analysis, Time Analysis, and Details**. 
 
 ---
 
