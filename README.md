@@ -10,7 +10,7 @@ The dashboard is divided into three main sections: **Overview Analysis, Time Ana
 ## 📊 Dashboard Previews
 
 ### 1. Overview Analysis
-![Overview Dashboard](Overview_SS.png)
+![Overview Dashboard](https://github.com/gitika-12/Uber-Trip-Analysis/blob/main/Overview%20SS.png)
 
 **Key Metrics:**
 - **103.7K** Total Bookings  
